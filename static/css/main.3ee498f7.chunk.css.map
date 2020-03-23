@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,gBACF,CAEA,MACE,kBACF","file":"main.3ee498f7.chunk.css","sourcesContent":["body {\r\n  margin: 0;\r\n  min-height: 100vh;\r\n}\r\n\r\n#root {\r\n  min-height: inherit;\r\n}\r\n"]}
