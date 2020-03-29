@@ -1,0 +1,1 @@
+{"version":3,"sources":["features/user/Profile.tsx"],"names":["Profile"],"mappings":"0IAAA,mEAEaA,EAAkB,kBAAM","file":"static/js/6.99c82224.chunk.js","sourcesContent":["import React, { FC } from 'react';\n\nexport const Profile: FC<{}> = () => <h3>Profile</h3>;\n"],"sourceRoot":""}
