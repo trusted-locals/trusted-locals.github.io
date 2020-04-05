@@ -1,2 +1,0 @@
-(this["webpackJsonptrusted-locals-frontend"]=this["webpackJsonptrusted-locals-frontend"]||[]).push([[9],{172:function(t,e,n){"use strict";n.r(e),n.d(e,"ResetPassword",(function(){return o}));var s=n(1),r=n.n(s),o=function(){return r.a.createElement("h3",null,"Reset Password")}}}]);
-//# sourceMappingURL=9.c70a60bb.chunk.js.map

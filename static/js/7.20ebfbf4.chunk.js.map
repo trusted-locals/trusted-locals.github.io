@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/Page404.tsx"],"names":["Page404","_props"],"mappings":"0IAAA,mEAIaA,EAAqB,SAACC,GAAD,OAAmB","file":"static/js/7.20ebfbf4.chunk.js","sourcesContent":["import React, { FC } from 'react';\n\ntype Props = {};\n\nexport const Page404: FC<Props> = (_props: Props) => <>404</>;\n"],"sourceRoot":""}
