@@ -1,0 +1,2 @@
+(this["webpackJsonptrusted-locals-frontend"]=this["webpackJsonptrusted-locals-frontend"]||[]).push([[7],{182:function(n,t,e){"use strict";e.r(t),e.d(t,"Page404",(function(){return a}));var r=e(1),s=e.n(r),a=function(n){return s.a.createElement(s.a.Fragment,null,"404")}}}]);
+//# sourceMappingURL=7.3abb0e61.chunk.js.map

@@ -1,1 +1,0 @@
-{"version":3,"sources":["features/user/ResetPassword.tsx"],"names":["ResetPassword"],"mappings":"0IAAA,yEAEaA,EAAwB,kBAAM","file":"static/js/9.26c8162d.chunk.js","sourcesContent":["import React, { FC } from 'react';\n\nexport const ResetPassword: FC<{}> = () => <h3>Reset Password</h3>;\n"],"sourceRoot":""}
